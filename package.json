@@ -28,7 +28,7 @@
   ],
   "author": {
     "name": "hustcc",
-    "url": "https://github.com/hustcc"
+    "url": "https://github.com/wuliangsong"
   },
   "homepage": "https://atool.vip",
   "license": "MIT",
@@ -39,10 +39,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hustcc/canvas-nest.js"
+    "url": "https://github.com/wuliangsong/wuliangsong.github.io"
   },
   "bugs": {
-    "url": "https://github.com/hustcc/canvas-nest.js/issues"
+    "url": "https://github.com/wuliangsong/wuliangsong.github.io/issues"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
